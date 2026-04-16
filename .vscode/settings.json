@@ -1,0 +1,42 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.espIdfPath": "/Users/harry/esp/v5.4.2/esp-idf",
+  "idf.espIdfPathWin": "C:\\Users\\58201\\esp\\v5.4.2\\esp-idf",
+  "idf.pythonBinPath": "C:\\Users\\58201\\.espressif\\python_env\\idf5.4_py3.11_env\\Scripts\\python.exe",
+  "idf.pythonBinPathWin": "C:\\Users\\58201\\.espressif\\python_env\\idf5.4_py3.11_env\\Scripts\\python.exe",
+  "idf.customExtraPaths": "C:\\Users\\58201\\.espressif\\tools\\xtensa-esp32s3-elf\\esp-2022r1-11.2.0\\xtensa-esp32s3-elf\\bin;C:\\Users\\58201\\.espressif\\tools\\esp32ulp-elf\\2.35_20220830\\esp32ulp-elf\\bin;C:\\Users\\58201\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20230921\\openocd-esp32\\bin",
+  "files.associations": {
+    "gpio.h": "c",
+    "led.h": "c",
+    "task.h": "c",
+    "bsp_lcd.h": "c",
+    "string.h": "c",
+    "esp_lcd_panel_ops.h": "c",
+    "bsp_i2c.h": "c",
+    "camera.h": "c",
+    "array": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "esp_face_detection.h": "c",
+    "esp_face_detection.hpp": "c",
+    "lcd.h": "c",
+    "human_face_detect_msr01.hpp": "c",
+    "dl_image.hpp": "c",
+    "vector": "c",
+    "dl_math_matrix.hpp": "c",
+    "esp_log.h": "c",
+    "bitset": "c",
+    "initializer_list": "c",
+    "regex": "c",
+    "utility": "c"
+},
+"idf.openOcdConfigs": [
+  "board/esp32s3-builtin.cfg"
+],
+"idf.flashType": "UART",
+"idf.portWin": "COM4",
+"idf.toolsPath": "/Users/harry/.espressif",
+"idf.pythonInstallPath": "/usr/bin/python3",
+"idf.port": "/dev/tty.debug-console"
+}
